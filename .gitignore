@@ -123,3 +123,4 @@ node_modules/
 .project
 
 /.settings/
+.vfox/
